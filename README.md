@@ -1,4 +1,4 @@
-📚 QUIZZAPPJava – Java-Based Quiz Application
+📚 QUIZZ APP Java – Java-Based Quiz Application
 
 📘 Overview
 
@@ -39,17 +39,22 @@ NetBeans / IntelliJ / Eclipse – Any Java IDE can be used to run and manage the
 └── README.md             # Project documentation
 🚀 How to Run
 
-Clone the Repository
+***1. Clone the Repository
 git clone https://github.com/apurwaanandd/QUIZZAPPJava.git
 cd QUIZZAPPJava
-Open the project in your preferred IDE (NetBeans, IntelliJ, Eclipse, etc.)
+
+2. Open the project in your preferred IDE (NetBeans, IntelliJ, Eclipse, etc.)
 Configure Database
 Make sure your database (e.g., MySQL or SQLite) is running.
-Update the JDBC connection string in the LoginFrame.java accordingly.
+
+
+4. Update the JDBC connection string in the LoginFrame.java accordingly.
 Add a users table with sample login credentials.
 Compile and Run the Application
 Run LoginFrame.java to start the login screen.
-Upon successful login, QuizApp.java will launch automatically.
+
+
+5. Upon successful login, QuizApp.java will launch automatically.
 🧪 Sample Credentials (for testing)
 
 Username: admin
